@@ -11,7 +11,7 @@ import {
   userPokemonsType,
 } from "../utils/types";
 function CompareContainer({
-  pokemon = undefined,
+  pokemon = undefinefd,
   isEmpty = false,
 }: {
   pokemon?: userPokemonsType;
